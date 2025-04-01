@@ -12,8 +12,8 @@ function App() {
       <nav>
         <ul>
           <Link to="/">Home</Link>
-          <Link to="/contact">Contact</Link>
           <Link to="/profile">Profile</Link>
+          <Link to="/contact">Contact</Link>
         </ul>
       </nav>
       <Routes>
